@@ -9,6 +9,7 @@
         <version>1.0-SNAPSHOT</version>
         <modules>
             <module>cloud</module>
+            <module>cloud-client-sample</module>
         </modules>
         <packaging>pom</packaging>
 
