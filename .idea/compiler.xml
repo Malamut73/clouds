@@ -7,9 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="cloud" />
+        <module name="eureka-client-second" />
         <module name="cloud-client-sample" />
+        <module name="eureka-client-ask" />
+        <module name="eureka-client-first" />
         <module name="cloud-client-users" />
         <module name="cloud-router" />
+        <module name="eureka-server" />
       </profile>
     </annotationProcessing>
   </component>
@@ -20,6 +24,10 @@
       <module name="cloud-client-users" options="-parameters" />
       <module name="cloud-router" options="-parameters" />
       <module name="clouds" options="-parameters" />
+      <module name="eureka-client-ask" options="-parameters" />
+      <module name="eureka-client-first" options="-parameters" />
+      <module name="eureka-client-second" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
     </option>
   </component>
 </project>

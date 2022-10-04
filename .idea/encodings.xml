@@ -5,5 +5,10 @@
     <file url="file://$PROJECT_DIR$/cloud-client-users/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud-router/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-client-ask/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-client-first/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-client-second/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server/src/main/resources" charset="UTF-8" />
   </component>
 </project>

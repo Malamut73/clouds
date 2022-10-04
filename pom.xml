@@ -12,6 +12,10 @@
             <module>cloud-client-sample</module>
             <module>cloud-client-users</module>
             <module>cloud-router</module>
+            <module>eureka-client-first</module>
+            <module>eureka-client-second</module>
+            <module>eureka-client-ask</module>
+            <module>eureka-server</module>
         </modules>
         <packaging>pom</packaging>
 
