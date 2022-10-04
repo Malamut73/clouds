@@ -6,7 +6,7 @@ spring:
       server:
         git:
           uri: https://github.com/Malamut73/springcloud-config.git
-          search-paths: step01
+          search-paths: step04
           clone-on-start: true
   application:
     name: config_server

@@ -8,6 +8,8 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloud" />
         <module name="cloud-client-sample" />
+        <module name="cloud-client-users" />
+        <module name="cloud-router" />
       </profile>
     </annotationProcessing>
   </component>
@@ -15,6 +17,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="cloud" options="-parameters" />
       <module name="cloud-client-sample" options="-parameters" />
+      <module name="cloud-client-users" options="-parameters" />
+      <module name="cloud-router" options="-parameters" />
       <module name="clouds" options="-parameters" />
     </option>
   </component>

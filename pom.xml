@@ -10,6 +10,8 @@
         <modules>
             <module>cloud</module>
             <module>cloud-client-sample</module>
+            <module>cloud-client-users</module>
+            <module>cloud-router</module>
         </modules>
         <packaging>pom</packaging>
 
